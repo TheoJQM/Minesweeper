@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Minesweeper (Kotlin)/*
+!/Minesweeper (Kotlin)/task/
+/Minesweeper (Kotlin)/task/*
+!/Minesweeper (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/For loop and lists/Find the first repeated integer in a list/out/
+/Topics/For loop and lists/Find the first repeated integer in a list/out/production/classes/
